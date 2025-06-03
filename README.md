@@ -29,5 +29,12 @@ Financial analysts use Random Forest to identify potential stock markets. It als
 E-commerce businesses use Random Forest in their daily operations. It helps predict customer preferences based on past buying behavior, enabling better product recommendations and personalized experiences.
 
 
+example foto for random forest
+![download](https://github.com/user-attachments/assets/954e2597-31d9-47c0-a8e6-7e0249ca31e1)
+![download (3)](https://github.com/user-attachments/assets/c0ef1bff-6698-44e7-b7f8-641069b5c2bc)
+![download (2)](https://github.com/user-attachments/assets/accffba6-3fc1-4211-8296-0796fe83bbe0)
+![download (1)](https://github.com/user-attachments/assets/ed002a56-6ccf-4822-80fb-4b65fbab5906)
+
+
 source :
 https://algorit.ma/blog/cara-kerja-algoritma-random-forest-2022/
